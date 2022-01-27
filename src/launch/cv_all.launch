@@ -1,0 +1,3 @@
+<launch>
+    <node name="cv_all" pkg="cv_all" type="cv_all" output="screen"/>
+</launch>
